@@ -54,8 +54,8 @@ public class User {
         return totalBalance;
     }
 
-    // public void addExpense(Expense expense){
-    // expenseList.add(expense);
-    // }
+    public void addExpense(Expense expense) {
+        expenseList.add(expense);
+    }
 
 }
