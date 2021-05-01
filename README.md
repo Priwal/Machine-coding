@@ -1,2 +1,3 @@
 # Machine-coding
-split_wise, bill split
+
+1)split wise , bill splitting
