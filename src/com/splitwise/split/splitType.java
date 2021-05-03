@@ -1,4 +1,4 @@
-package com.split_wise.split;
+package src.com.splitwise.split;
 
 public enum splitType {
     EQUAL, PERCENT, EXACT
